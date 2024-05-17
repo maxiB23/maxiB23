@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxiB23
-- 💻🖱️ I’m interested in programming and Similar things 💾💿
+- 💻🖱️ I’m interested in programming and Similar things. 💾💿
 - 👨‍💻 I’m currently learning Javascript and Cyber Security.
 - 👋🤖 Pronoun: El_Max
 - ⚡ Fun fact: I like philosophy and theology...
